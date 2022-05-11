@@ -1,5 +1,9 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Learning+to+become+a+web+developer.)](https://git.io/typing-svg)
 
+<p align="center">
+  <img width="92" style="border-radius: 100%;" src="https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/241296300_1258033891287603_779823696186648501_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=vyxz2-zclD0AX-bgLxr&_nc_ht=scontent-sin6-4.xx&oh=00_AT_HnfJwnPg4xJgmbpaKyNDC7MeQv_vKOP1sgKAjgPrQpA&oe=6281B9D3" />
+</p>  
+<h2 align="center" color="red">Hi there 👋, I'm Nayzaw!</h2>
 <!--
 **ahnge/ahnge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
