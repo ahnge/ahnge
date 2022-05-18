@@ -21,14 +21,6 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnge&theme=midnight-purple&show_icons=true)
- <br />
-  
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnge&layout=compact)
- <br />
- 
-![](https://komarev.com/ghpvc/?username=ahnge)
-
 <!--
 **ahnge/ahnge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
