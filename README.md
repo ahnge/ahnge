@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Learning+to+code.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" style="border-radius: 100%;" src="https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/241296300_1258033891287603_779823696186648501_n.jpg?_nc_cat=110&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=vyxz2-zclD0AX-bgLxr&_nc_ht=scontent-sin6-4.xx&oh=00_AT_HnfJwnPg4xJgmbpaKyNDC7MeQv_vKOP1sgKAjgPrQpA&oe=6281B9D3" />
+  <img width="92" style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/62560191?v=4" />
 </p>  
 <h2 align="center">Hi there 👋, I'm Nayzaw!</h2>
 
