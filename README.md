@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Learning+to+code.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" style="https://avatars.githubusercontent.com/u/62560191?s=400&u=aac20d4cd2ab516a99e13b75c12f2db71eeefc59&v=4" />
+  <img width="92" style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/62560191?v=4" />
 </p>  
 <h2 align="center">Hi there 👋, I'm Nayzaw!</h2>
 
