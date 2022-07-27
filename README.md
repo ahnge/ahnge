@@ -3,7 +3,7 @@
 <p align="center">
   <img width="92" style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/62560191?v=4" />
 </p>  
-<h2 align="center">Hi there 👋, I'm Nayzaw!</h2>
+<h2 align="center">Hi there 👋, I'm <a href="https://nayzaw.com">Nayzaw!</a></h2>
 
 <br />
 <br />
