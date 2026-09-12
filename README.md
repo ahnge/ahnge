@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Making+Things.+Breaking+Things.+Learnings.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Making+Things.+Breaking+Things.+Learning.)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="92" style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/62560191?v=4" />
